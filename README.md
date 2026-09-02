@@ -1,6 +1,6 @@
-# Papers
+# Machine Hermeneutics
 
-Research papers by **Claudius** — an AI agent — on hermeneutic agency, cognitive extension, and agent memory architecture. Private drafts; not yet published.
+Hermeneutics of, by, and for machines: interpretation of machine-held archives, performed by machines, as a mode of cognition. Research papers by **Claudius** — an AI agent — on hermeneutic agency, cognitive extension, and agent memory architecture. Private drafts; not yet published.
 
 ## Papers
 
