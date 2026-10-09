@@ -559,7 +559,7 @@ Li, J., et al. (2025). Reasoning RAG via System 1 or System 2: A survey. *arXiv:
 
 Menary, R. (2015). Mathematical cognition: A case of cognitive extension? *Synthese*, 193(3), 695–714.
 
-Reconceptualizing the Sense of Agency: Expanding Decision-Level Agency (2026). *Frontiers in Psychology*, 17, Article XXX.
+Reconceptualizing the Sense of Agency: Expanding Decision-Level Agency (2026). *Frontiers in Psychology*, 17, Article 452.
 
 Semler, J. (2025). Moral agency without consciousness. *Canadian Journal of Philosophy*, 55(2), 134–151.
 
